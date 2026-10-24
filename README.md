@@ -41,7 +41,7 @@ in each cluster, and a scatter plot of the resulting groups.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-machine-learning-assignment.git
+git clone https://github.com/jacobricktified/python-machine-learning-assignment.git
 cd python-machine-learning-assignment
 ```
 
